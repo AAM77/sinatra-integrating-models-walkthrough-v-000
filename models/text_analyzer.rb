@@ -38,6 +38,6 @@ class TextAnalyzer
     end #each |key, value|
 
     biggest
-  end #most_user_letter
+  end #most_user_letter METHOD
 
-end #TextAnalyzer class
+end #TextAnalyzer CLASS
